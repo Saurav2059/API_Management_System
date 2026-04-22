@@ -1,7 +1,7 @@
 # Frontend
 ## Backend Repository
 
-You can find the backend code here: [Backend Repo](https://github.com/devitsah/API_Backend.git)
+You can find the backend code here: [Backend Repo](https://github.com/Saurav2059/API_Management_Backend.git)
 
 
 # API Management Frontend
@@ -29,8 +29,8 @@ Ensure you have **Node.js** and **npm** installed.
 ### Steps:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/harshapeshave641/APIMG-frontend.git
-   cd APIMG-frontend
+   git clone https://github.com/Saurav2059/API_Management_System.git
+   cd API_Management_System
    ```
 
 2. Install dependencies:
